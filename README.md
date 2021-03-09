@@ -10,7 +10,7 @@ O projeto é um App que lista as notícias atuais do IBGE, mostra o nome da not�
 
 ## Objetivos
 
-1. Mostrar de jeito prático as notícias da Agência de Notícias do IBGE;
+1. Mostrar de maneira prática as notícias da Agência de Notícias do IBGE;
 2. Começar um App de apoio para os Jornalistas e pessoas interessadas por dados da agência.
 
 ## API Utilizada
